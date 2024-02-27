@@ -1,0 +1,8 @@
+.jobs-container {
+  background-color: black;
+  min-height: 100vh;
+  background-size: cover;
+}
+.body {
+  margin: 0px;
+}

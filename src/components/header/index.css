@@ -1,0 +1,28 @@
+.header-bg-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-height: 15vh;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 10px;
+}
+
+.header-options {
+  display: flex;
+  list-style-type: none;
+  color: #f1f5f9;
+}
+
+.header-home {
+  margin: 5px;
+}
+.header-jobs {
+  margin: 5px;
+}
+.header-logo-container {
+  margin: 5px;
+}
+.header-button-container {
+  margin: 5px;
+}

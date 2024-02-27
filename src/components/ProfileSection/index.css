@@ -1,0 +1,7 @@
+.job-profile-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  min-height: fit-content;
+  color: black;
+  padding: 25px;
+}

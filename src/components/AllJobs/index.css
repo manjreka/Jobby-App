@@ -1,0 +1,48 @@
+.job-content {
+  display: flex;
+}
+
+.job-container-sidebar {
+  min-width: 25vw;
+  min-height: 100vh;
+  margin: 25px;
+}
+
+.job-sidebar-container {
+  color: white;
+  margin: 25px;
+}
+
+.jobs-sidebar-label {
+  color: white;
+}
+
+.job-sidebar-heading {
+  color: white;
+  margin: 25px;
+  font-size: 25px;
+}
+
+.job-container-mainbar {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  margin: 25px;
+}
+.unordered-job-list {
+  list-style-type: none;
+}
+
+.all-jobs-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
